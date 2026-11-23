@@ -78,8 +78,7 @@ npm run preview
 
 ## Live Project Link
 
-> Add your deployed URL here, e.g. https://react-ecommerce-assignment.vercel.app
-
+ https://e-commerce-shopping-application.vercel.app/
 ## Author
 
 Md. Hasan Akond
